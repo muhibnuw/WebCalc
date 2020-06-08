@@ -1,0 +1,2 @@
+# WeCalc
+from dicoding course
